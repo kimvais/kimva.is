@@ -1,0 +1,226 @@
+{
+  "England": {
+    "fifa": "ENG",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "a2": "GB-ENG",
+    "a3": "ENG",
+    "name": "England"
+  },
+  "South Africa": {
+    "fifa": "RSA",
+    "flag": "🇿🇦",
+    "a2": "ZA",
+    "a3": "ZAF",
+    "name": "South Africa"
+  },
+  "Canada": {
+    "fifa": "CAN",
+    "flag": "🇨🇦",
+    "a2": "CA",
+    "a3": "CAN",
+    "name": "Canada"
+  },
+  "Germany": {
+    "fifa": "GER",
+    "flag": "🇩🇪",
+    "a2": "DE",
+    "a3": "DEU",
+    "name": "Germany"
+  },
+  "Paraguay": {
+    "fifa": "PAR",
+    "flag": "🇵🇾",
+    "a2": "PY",
+    "a3": "PRY",
+    "name": "Paraguay"
+  },
+  "Netherlands": {
+    "fifa": "NED",
+    "flag": "🇳🇱",
+    "a2": "NL",
+    "a3": "NLD",
+    "name": "Netherlands"
+  },
+  "Morocco": {
+    "fifa": "MAR",
+    "flag": "🇲🇦",
+    "a2": "MA",
+    "a3": "MAR",
+    "name": "Morocco"
+  },
+  "Brazil": {
+    "fifa": "BRA",
+    "flag": "🇧🇷",
+    "a2": "BR",
+    "a3": "BRA",
+    "name": "Brazil"
+  },
+  "Japan": {
+    "fifa": "JPN",
+    "flag": "🇯🇵",
+    "a2": "JP",
+    "a3": "JPN",
+    "name": "Japan"
+  },
+  "France": {
+    "fifa": "FRA",
+    "flag": "🇫🇷",
+    "a2": "FR",
+    "a3": "FRA",
+    "name": "France"
+  },
+  "Sweden": {
+    "fifa": "SWE",
+    "flag": "🇸🇪",
+    "a2": "SE",
+    "a3": "SWE",
+    "name": "Sweden"
+  },
+  "Ivory Coast": {
+    "fifa": "CIV",
+    "flag": "🇨🇮",
+    "a2": "CI",
+    "a3": "CIV",
+    "name": "Ivory Coast"
+  },
+  "Norway": {
+    "fifa": "NOR",
+    "flag": "🇳🇴",
+    "a2": "NO",
+    "a3": "NOR",
+    "name": "Norway"
+  },
+  "Mexico": {
+    "fifa": "MEX",
+    "flag": "🇲🇽",
+    "a2": "MX",
+    "a3": "MEX",
+    "name": "Mexico"
+  },
+  "Ecuador": {
+    "fifa": "ECU",
+    "flag": "🇪🇨",
+    "a2": "EC",
+    "a3": "ECU",
+    "name": "Ecuador"
+  },
+  "Democratic Republic of the Congo": {
+    "fifa": "COD",
+    "flag": "🇨🇩",
+    "a2": "CD",
+    "a3": "COD",
+    "name": "Democratic Republic of the Congo"
+  },
+  "United States": {
+    "fifa": "USA",
+    "flag": "🇺🇸",
+    "a2": "US",
+    "a3": "USA",
+    "name": "United States"
+  },
+  "Bosnia and Herzegovina": {
+    "fifa": "BIH",
+    "flag": "🇧🇦",
+    "a2": "BA",
+    "a3": "BIH",
+    "name": "Bosnia and Herzegovina"
+  },
+  "Belgium": {
+    "fifa": "BEL",
+    "flag": "🇧🇪",
+    "a2": "BE",
+    "a3": "BEL",
+    "name": "Belgium"
+  },
+  "Senegal": {
+    "fifa": "SEN",
+    "flag": "🇸🇳",
+    "a2": "SN",
+    "a3": "SEN",
+    "name": "Senegal"
+  },
+  "Portugal": {
+    "fifa": "POR",
+    "flag": "🇵🇹",
+    "a2": "PT",
+    "a3": "PRT",
+    "name": "Portugal"
+  },
+  "Croatia": {
+    "fifa": "CRO",
+    "flag": "🇭🇷",
+    "a2": "HR",
+    "a3": "HRV",
+    "name": "Croatia"
+  },
+  "Spain": {
+    "fifa": "ESP",
+    "flag": "🇪🇸",
+    "a2": "ES",
+    "a3": "ESP",
+    "name": "Spain"
+  },
+  "Austria": {
+    "fifa": "AUT",
+    "flag": "🇦🇹",
+    "a2": "AT",
+    "a3": "AUT",
+    "name": "Austria"
+  },
+  "Switzerland": {
+    "fifa": "SUI",
+    "flag": "🇨🇭",
+    "a2": "CH",
+    "a3": "CHE",
+    "name": "Switzerland"
+  },
+  "Algeria": {
+    "fifa": "ALG",
+    "flag": "🇩🇿",
+    "a2": "DZ",
+    "a3": "DZA",
+    "name": "Algeria"
+  },
+  "Argentina": {
+    "fifa": "ARG",
+    "flag": "🇦🇷",
+    "a2": "AR",
+    "a3": "ARG",
+    "name": "Argentina"
+  },
+  "Cape Verde": {
+    "fifa": "CPV",
+    "flag": "🇨🇻",
+    "a2": "CV",
+    "a3": "CPV",
+    "name": "Cape Verde"
+  },
+  "Colombia": {
+    "fifa": "COL",
+    "flag": "🇨🇴",
+    "a2": "CO",
+    "a3": "COL",
+    "name": "Colombia"
+  },
+  "Ghana": {
+    "fifa": "GHA",
+    "flag": "🇬🇭",
+    "a2": "GH",
+    "a3": "GHA",
+    "name": "Ghana"
+  },
+  "Australia": {
+    "fifa": "AUS",
+    "flag": "🇦🇺",
+    "a2": "AU",
+    "a3": "AUS",
+    "name": "Australia"
+  },
+  "Egypt": {
+    "fifa": "EGY",
+    "flag": "🇪🇬",
+    "a2": "EG",
+    "a3": "EGY",
+    "name": "Egypt"
+  }
+}
